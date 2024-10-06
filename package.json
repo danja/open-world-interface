@@ -1,0 +1,26 @@
+{
+  "name": "open-world-interface",
+  "version": "1.0.0",
+  "description": "visual interface to hyperdata",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danja/open-world-interface.git"
+  },
+  "keywords": [
+    "visual",
+    "data"
+  ],
+  "author": "Danny Ayers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danja/open-world-interface/issues"
+  },
+  "homepage": "https://github.com/danja/open-world-interface#readme"
+}
